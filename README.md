@@ -74,5 +74,5 @@ If you have any questions or would like to get in touch, feel free to reach out:
 University degli Studi di Milano  
 Email: [kghasemipoo@gmail.com](mailto:kghasemipoo@gmail.com)  
 Student Email: [kasra.ghasemipoo@studenti.unimi.it](mailto:kasra.ghasemipoo@studenti.unimi.it)  
-LinkedIn: [www.linkedin.com/in/kasra-ghasemipoo](www.linkedin.com/in/kasra-ghasemipoo)
+LinkedIn: [https://www.linkedin.com/in/kasra-ghasemipoo/](https://www.linkedin.com/in/kasra-ghasemipoo/)
 
