@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project applies unsupervised learning techniques to the **Bank Marketing dataset** from the UCI Machine Learning Repository. The goal is to identify distinct customer segments based on socio-demographic and financial features without using the target variable (`y`). This approach helps in uncovering hidden patterns that can inform targeted marketing strategies. The methods applied include **Principal Component Analysis (PCA)** for dimensionality reduction and **K-Means**, **Hierarchical Clustering**, and **Gaussian Mixture Models (GMM)** for clustering.
+This project applies unsupervised learning techniques to the **Bank Marketing dataset** from the UCI Machine Learning Repository. The goal is to identify distinct customer segments based on socio-demographic and financial features. This approach helps in uncovering hidden patterns that can inform targeted marketing strategies. The methods applied include **Principal Component Analysis (PCA)** for dimensionality reduction and **K-Means**, **Hierarchical Clustering**, and **Gaussian Mixture Models (GMM)** for clustering.
 
 ## Key Techniques and Algorithms
 
